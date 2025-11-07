@@ -1,5 +1,5 @@
 <h3>Fale Conosco</h3>
-<form action="salvar_mensagem.php" method="POST">
+<form action="admin_mensagens/cadastra_contato.php" method="POST">
     <div class="mb-3 mt-3">
         <label for="email" class="form-label">Email:</label>
         <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
